@@ -1,0 +1,46 @@
+{
+  "questions" : [
+    {
+                "Question": "Content Quality - How would you rate the overall quality and relevance of the course content?"
+      },
+    {
+                "Question": "Teacher Competence - How would you rate the instructors ability to explain complex concepts and engage learners?"
+      },
+    {
+                "Question": "Interactive Elements - To what extent did the course include interactive elements (quizzes, coding exercises, etc.) to enhance your learning experience?"
+      },
+    {
+                "Question": "Group Interaction - To what extent did the course facilitate interaction with other learners?"
+      },
+    {
+                "Question": "Support and Feedback - How satisfied were you with the support and feedback provided by the course teacher or support team?"
+      },
+    {
+                "Question": "Dog Care - How satisfied were you with the care and attention given to Shiva during the course?"
+      }
+      ],
+
+
+  "options" : [
+    {
+                "Option" : "1 - Very Bad"
+      },
+    {
+                "Option" : "2 - Not Impressed"
+      },
+    {
+                "Option"  : "3 - Plausible"
+      },
+    {
+                "Option" : "4 - Ok"
+      },
+    {
+                "Option" : "5 - Pretty Good"
+      },
+    {
+                "Option" : "6 - Deserves Easter Eggs"
+      }
+    ]
+
+
+}
